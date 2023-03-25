@@ -1,1 +1,1 @@
-# template--package
+# TS NPM Package Template
