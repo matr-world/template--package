@@ -7,14 +7,12 @@
         "prettier-plugin-sort-json",
         "prettier-plugin-jsdoc",
         "prettier-plugin-import-sort",
-        "prettier-plugin-organize-imports",
-        "prettier-plugin-tailwindcss"
+        "prettier-plugin-organize-imports"
     ],
     "semi": true,
     "singleAttributePerLine": true,
     "singleQuote": false,
     "svelteSortOrder": "options-styles-scripts-markup",
     "tabWidth": 4,
-    "tailwindConfig": "./tailwind.config.cjs",
     "trailingComma": "es5"
 }
